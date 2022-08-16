@@ -26,7 +26,7 @@ nvm install 18
 npm i pm2 -g
 ```
 
-5. use pm2 to run this script so you don't have to keep the terminal open
+5. use pm2 to run this script so you don't have to keep the terminal opened  
    如果你不想一直开着终端，可以使用pm2运行此脚本
 
 ```bash
