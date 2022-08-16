@@ -1,7 +1,7 @@
 # watchMos
 a script that re-opens Mos when it got crashed.   
 
-一个 Mos.app 的监控脚本。
+一个 [Mos.app](https://github.com/Caldis/Mos) 的监控脚本。
 
 
 ## how to use 如何使用
